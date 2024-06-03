@@ -2,8 +2,10 @@
 有哪些需要学习的书籍与知识，由浅入深
 
 ## 用户运营模块
-1、《运营之光》黄有璨
-2、《硅谷增长黑客实战笔记》 https://sc-cs-ks.github.io/KS-GrowthHacking/a-books/GH-practice-notes/
+《运营之光》黄有璨 https://github.com/Zeng521/-/issues/2
+
+
+《硅谷增长黑客实战笔记》 https://sc-cs-ks.github.io/KS-GrowthHacking/a-books/GH-practice-notes/
 
 
 ## python
