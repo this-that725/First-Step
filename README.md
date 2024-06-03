@@ -1,18 +1,10 @@
 # First-Step
-有哪些需要学习的书籍与知识，由浅入深
-
-## 用户运营模块
-《运营之光》黄有璨 https://github.com/Zeng521/-/issues/2
 
 
-《硅谷增长黑客实战笔记》 https://sc-cs-ks.github.io/KS-GrowthHacking/a-books/GH-practice-notes/
+# 用户运营模块
+**《运营之光2.0：我的互联网运营方法与自白》——黄有璨**
+参考笔记： https://github.com/Zeng521/-/issues/2
 
 
-## python
-1、《利用python进行数据分析》
-2、
 
 
-## SQL模块
-1、《SQL必知必会》
-2、
